@@ -1,0 +1,1637 @@
+1
+00:00:03,481 --> 00:00:07,918
+Good evening. I'm your guest lecturer,
+Dr. Sheldon Cooper.
+
+2
+00:00:12,423 --> 00:00:15,915
+I was expecting applause.
+
+3
+00:00:16,093 --> 00:00:20,052
+But I suppose stunned silence
+is equally appropriate.
+
+4
+00:00:20,231 --> 00:00:23,200
+I agreed to speak to you
+this evening...
+
+5
+00:00:23,367 --> 00:00:26,268
+...because I was told
+you're the best and the brightest...
+
+6
+00:00:26,437 --> 00:00:28,997
+...of this university's
+doctoral candidates.
+
+7
+00:00:29,173 --> 00:00:32,438
+Hmm. That's like saying
+you're the most important electron...
+
+8
+00:00:32,610 --> 00:00:34,908
+...in a hydrogen atom. Ha, ha.
+
+9
+00:00:38,249 --> 00:00:40,740
+Because, you see,
+there's only one electron...
+
+10
+00:00:40,918 --> 00:00:42,943
+...in a hydrogen atom.
+
+11
+00:00:46,090 --> 00:00:47,921
+Best and brightest,
+my sweet patootie.
+
+12
+00:00:48,092 --> 00:00:50,322
+All right. Let's begin. Show of hands.
+
+13
+00:00:50,495 --> 00:00:54,488
+Who here is familiar with the concept
+of topological insulators?
+
+14
+00:00:55,733 --> 00:00:56,995
+Heh. Don't kid yourselves.
+
+15
+00:00:59,670 --> 00:01:02,161
+I found another tweet from a student.
+
+16
+00:01:02,340 --> 00:01:04,865
+"Dr. Cooper has taken
+a relatively boring subject...
+
+17
+00:01:05,042 --> 00:01:08,409
+...and managed to make it
+completely insufferable.
+
+18
+00:01:09,146 --> 00:01:11,046
+Plus, he looks like a giant insect."
+
+19
+00:01:11,215 --> 00:01:12,375
+[RAJ LAUGHS]
+
+20
+00:01:12,550 --> 00:01:15,348
+Look. Listen to this one.
+"Does Einstein's theory...
+
+21
+00:01:15,520 --> 00:01:18,284
+...explain why time flies
+when you're having fun...
+
+22
+00:01:18,456 --> 00:01:22,119
+...but when you're listening to
+Dr. Cooper, it falls out of the sky dead?"
+
+23
+00:01:22,293 --> 00:01:23,317
+[LAUGHS]
+
+24
+00:01:23,494 --> 00:01:27,191
+Ooh, somebody took pictures and
+uploaded them to their Flickr account.
+
+25
+00:01:28,165 --> 00:01:33,000
+Wow. How do you get an entire lecture hall
+to flip you off at the same time?
+
+26
+00:01:33,471 --> 00:01:36,133
+Apparently, if you're Sheldon,
+all you need to do is turn your back.
+
+27
+00:01:36,307 --> 00:01:37,706
+[RAJ LAUGHS]
+
+28
+00:01:37,875 --> 00:01:40,343
+Hey, Leonard, is your Wi-Fi down?
+I can't get on.
+
+29
+00:01:40,511 --> 00:01:44,379
+Oh, Sheldon changed the password.
+It's now "Penny is a freeloader."
+
+30
+00:01:45,683 --> 00:01:46,911
+No spaces.
+
+31
+00:01:47,084 --> 00:01:49,018
+Thanks. What are you guys doing?
+
+32
+00:01:49,186 --> 00:01:51,984
+Sheldon gave a lecture tonight.
+We're reading the reviews.
+
+33
+00:01:52,156 --> 00:01:53,350
+Oh, how did he do?
+
+34
+00:01:53,524 --> 00:01:58,018
+Picture the Hindenburg meets Chernobyl
+meets Three Mile Island meets Tron 2.
+
+35
+00:01:59,163 --> 00:02:00,221
+That bad, huh?
+
+36
+00:02:00,398 --> 00:02:02,525
+Read this woman's tweet.
+
+37
+00:02:03,734 --> 00:02:07,170
+"Listening to Dr. Cooper has made me
+wanna start cutting myself again."
+
+38
+00:02:07,338 --> 00:02:08,600
+Yeah. Ha-ha-ha.
+
+39
+00:02:10,741 --> 00:02:13,574
+Well, good evening,
+Leonard, Howard, Raj.
+
+40
+00:02:13,744 --> 00:02:15,575
+Freeloader.
+
+41
+00:02:16,881 --> 00:02:18,576
+So how did the lecture go?
+
+42
+00:02:18,749 --> 00:02:21,217
+In a word, triumphant.
+
+43
+00:02:22,420 --> 00:02:25,184
+- Really? Triumphant?
+- Oh, yes.
+
+44
+00:02:25,356 --> 00:02:28,291
+Should've seen those people.
+They're thirsty for knowledge...
+
+45
+00:02:28,492 --> 00:02:29,789
+...drinking in my wisdom.
+
+46
+00:02:30,261 --> 00:02:32,889
+I may have changed a few lives today.
+
+47
+00:02:34,065 --> 00:02:36,693
+Oh, please, let me tell him.
+
+48
+00:02:36,867 --> 00:02:38,835
+I don't know.
+I kind of promised Howard.
+
+49
+00:02:39,804 --> 00:02:42,398
+- Tell me what?
+- Actually, we should share the moment.
+
+50
+00:02:42,573 --> 00:02:43,665
+Raj, if you would.
+
+51
+00:02:46,577 --> 00:02:49,876
+Oh, tweets about my lecture.
+
+52
+00:02:52,416 --> 00:02:54,111
+Hmm.
+
+53
+00:02:54,919 --> 00:02:57,285
+That's rather unfair.
+
+54
+00:02:57,655 --> 00:02:59,418
+That's downright cruel.
+
+55
+00:02:59,590 --> 00:03:01,922
+Plus, insects have six legs.
+
+56
+00:03:03,594 --> 00:03:06,154
+I'm not familiar
+with the acronym KMN.
+
+57
+00:03:06,330 --> 00:03:09,493
+Oh, from the context,
+we think it means "kill me now."
+
+58
+00:03:12,837 --> 00:03:16,739
+Well, I suppose everyone's entitled
+to their own opinion.
+
+59
+00:03:16,907 --> 00:03:18,204
+I think I'll turn in.
+
+60
+00:03:20,611 --> 00:03:23,546
+I didn't wanna teach
+those poopy heads anyway.
+
+61
+00:03:26,283 --> 00:03:28,774
+FYI,
+I think that's what Darth Vader said...
+
+62
+00:03:28,953 --> 00:03:32,116
+...just before
+he started building the Death Star.
+
+63
+00:03:58,049 --> 00:04:00,449
+- Sheldon still moping?
+- Yeah, it's weird.
+
+64
+00:04:00,651 --> 00:04:04,883
+Though he didn't wanna give the lecture,
+being rejected by students hit him hard.
+
+65
+00:04:05,056 --> 00:04:08,116
+Hmm, I know the feeling. Like
+accidentally walking into a gay bar...
+
+66
+00:04:08,292 --> 00:04:10,658
+...then having no one hit on you.
+
+67
+00:04:17,535 --> 00:04:20,436
+It happened to a friend of mine.
+
+68
+00:04:22,206 --> 00:04:24,868
+- Are you doing okay?
+- Yeah, Leonard and I are fine...
+
+69
+00:04:25,042 --> 00:04:27,704
+...but I think Raj
+needs to meet a girl really soon.
+
+70
+00:04:28,913 --> 00:04:31,074
+That shouldn't be too hard.
+He's a cutie.
+
+71
+00:04:31,248 --> 00:04:33,273
+Oh, thank you.
+But cute is for bunnies.
+
+72
+00:04:33,451 --> 00:04:38,081
+I want to be something with sex appeal,
+like a Labradoodle.
+
+73
+00:04:40,057 --> 00:04:41,115
+Labradoodle?
+
+74
+00:04:42,126 --> 00:04:44,993
+We might be starting to zero in
+on your problem.
+
+75
+00:04:45,596 --> 00:04:48,463
+Don't you listen to them.
+You've got plenty of sex appeal.
+
+76
+00:04:48,632 --> 00:04:50,896
+- You really think so?
+- Yeah, you're a hottie.
+
+77
+00:04:51,702 --> 00:04:53,829
+Thanks, Bernadette.
+
+78
+00:04:55,573 --> 00:04:58,064
+For the record,
+Labradoodles are hypoallergenic...
+
+79
+00:04:58,242 --> 00:05:01,507
+...which is a very sexy quality
+to those troubled by animal dander.
+
+80
+00:05:04,915 --> 00:05:06,507
+AMY [OVER COMPUTER]:
+So, what do you think?
+
+81
+00:05:09,620 --> 00:05:12,646
+It's a charming illusion,
+but it does not cheer me up.
+
+82
+00:05:12,823 --> 00:05:14,814
+Not even when I do this?
+
+83
+00:05:14,992 --> 00:05:19,292
+[MIMICS AIR BUBBLES POPPING
+UNDERWATER]
+
+84
+00:05:21,232 --> 00:05:22,665
+No.
+
+85
+00:05:23,667 --> 00:05:27,262
+Well, that was the last arrow
+in my quiver of whimsy.
+
+86
+00:05:27,671 --> 00:05:30,936
+Do you realize teaching
+is the first thing I've failed at...
+
+87
+00:05:31,108 --> 00:05:35,477
+...since my ill-fated attempt
+to complete a chin-up in March of 1989?
+
+88
+00:05:35,980 --> 00:05:40,144
+If this experience is troubling you
+there are things we could do about it.
+
+89
+00:05:40,317 --> 00:05:43,115
+- For instance?
+- The first thing that comes to mind...
+
+90
+00:05:43,287 --> 00:05:46,017
+...is isolating the part of your brain
+where memory is stored...
+
+91
+00:05:46,190 --> 00:05:48,283
+...and destroying it with a laser.
+
+92
+00:05:48,893 --> 00:05:49,917
+Hmm.
+
+93
+00:05:50,094 --> 00:05:54,292
+No. One slip of the hand and I'm sitting
+in the Engineering Department...
+
+94
+00:05:54,465 --> 00:05:57,161
+...building doodads with Wolowitz.
+
+95
+00:05:57,768 --> 00:06:01,363
+All right. Have you considered
+improving your socialization skills...
+
+96
+00:06:01,539 --> 00:06:04,133
+...thus allowing you
+to communicate more effectively?
+
+97
+00:06:04,308 --> 00:06:05,639
+Isn't that their burden?
+
+98
+00:06:05,810 --> 00:06:08,677
+I'm the one
+with something interesting to say.
+
+99
+00:06:09,280 --> 00:06:12,681
+Fair enough. But in its essence,
+teaching is a performance art.
+
+100
+00:06:12,850 --> 00:06:16,684
+In the classroom paradigm, the teacher
+has the responsibility to communicate...
+
+101
+00:06:16,854 --> 00:06:18,981
+...as well as entertain and engage.
+
+102
+00:06:19,557 --> 00:06:22,048
+I sense you're trying to slow walk me
+to an epiphany.
+
+103
+00:06:22,226 --> 00:06:24,319
+Would you mind very much
+jumping to it?
+
+104
+00:06:25,196 --> 00:06:27,687
+Perhaps you should consider
+taking acting lessons.
+
+105
+00:06:28,165 --> 00:06:29,723
+Acting lessons.
+
+106
+00:06:29,900 --> 00:06:31,731
+Interesting.
+
+107
+00:06:31,902 --> 00:06:35,065
+It might help if I could act
+as though I care about my students...
+
+108
+00:06:35,239 --> 00:06:37,434
+...and whether or not they learn.
+
+109
+00:06:39,710 --> 00:06:41,007
+Penny.
+
+110
+00:06:41,178 --> 00:06:42,440
+Penny.
+
+111
+00:06:42,613 --> 00:06:44,103
+Penny.
+
+112
+00:06:45,416 --> 00:06:49,250
+- What?
+- You're an "actress," correct?
+
+113
+00:06:50,054 --> 00:06:54,081
+I'm not an "actress." I'm an actress.
+
+114
+00:06:54,925 --> 00:06:57,723
+All right. You're an actress.
+
+115
+00:06:59,163 --> 00:07:01,893
+- I need you to teach me.
+- You want an acting lesson?
+
+116
+00:07:02,066 --> 00:07:05,092
+Perhaps two.
+I'd like to master the craft.
+
+117
+00:07:06,203 --> 00:07:07,932
+Okay, where is this coming from?
+
+118
+00:07:08,405 --> 00:07:12,933
+It has been suggested to me that acting
+techniques could improve my lecturing.
+
+119
+00:07:13,110 --> 00:07:18,047
+At which, if certain tweets and blogs
+are to be believed, I "suck the big one."
+
+120
+00:07:18,215 --> 00:07:19,239
+[LAUGHS]
+
+121
+00:07:19,416 --> 00:07:23,648
+I saw those. They were funny. I printed
+a few out and put them on my fridge.
+
+122
+00:07:24,221 --> 00:07:25,552
+So when can we start?
+
+123
+00:07:25,723 --> 00:07:27,156
+Okay, just to be clear.
+
+124
+00:07:27,358 --> 00:07:29,952
+You are asking me for help
+because I know something...
+
+125
+00:07:30,127 --> 00:07:32,561
+...that the brilliant Dr. Sheldon Cooper
+doesn't.
+
+126
+00:07:33,664 --> 00:07:36,292
+I suppose that's one way to look at it.
+
+127
+00:07:37,001 --> 00:07:39,094
+I think it's the only way to look at it.
+
+128
+00:07:39,803 --> 00:07:43,261
+- Are you going to help me or not?
+- Probably. Just enjoying the foreplay.
+
+129
+00:07:44,775 --> 00:07:47,073
+Does this mean
+you are done mocking my career?
+
+130
+00:07:47,244 --> 00:07:48,336
+Oh, I'm sorry.
+
+131
+00:07:48,512 --> 00:07:51,743
+I thought making the transition
+from actor to acting teacher...
+
+132
+00:07:51,916 --> 00:07:55,317
+...was the signal that one's career
+had reached the end of the road.
+
+133
+00:07:57,388 --> 00:07:59,913
+- Forget it.
+- I'll pay you $40.
+
+134
+00:08:00,090 --> 00:08:02,251
+Saturday, 9 a.m. Bring cash.
+
+135
+00:08:05,296 --> 00:08:07,264
+- Raj, I have amazing news.
+- What?
+
+136
+00:08:07,431 --> 00:08:11,026
+Ha, ha. I just got offered a fellowship
+at the Weizmann Institute in Israel.
+
+137
+00:08:11,201 --> 00:08:12,862
+- Dude, that's incredible.
+HOWARD: I know.
+
+138
+00:08:13,037 --> 00:08:15,665
+The only thing is,
+I'm gonna be gone for two years.
+
+139
+00:08:15,839 --> 00:08:17,534
+Oh, I'm gonna miss you.
+
+140
+00:08:17,708 --> 00:08:20,302
+- Are you going with him?
+- I have to stay for school.
+
+141
+00:08:20,477 --> 00:08:26,313
+That's what we're here to talk to you
+about. You see, Bernadette has needs.
+
+142
+00:08:28,485 --> 00:08:29,645
+What kind of needs?
+
+143
+00:08:30,220 --> 00:08:32,154
+Sexual needs.
+
+144
+00:08:33,190 --> 00:08:37,058
+Most of them regular,
+some of them kind of messed up.
+
+145
+00:08:39,830 --> 00:08:43,926
+So while I'm gone,
+you're gonna have to satisfy her.
+
+146
+00:08:45,169 --> 00:08:46,693
+What do you say?
+
+147
+00:08:48,138 --> 00:08:50,470
+I say okey-dokey.
+
+148
+00:08:56,747 --> 00:08:58,442
+What you thinking so hard about?
+
+149
+00:08:59,183 --> 00:09:02,346
+Just that I'm definitely not gay.
+
+150
+00:09:10,094 --> 00:09:11,391
+SHELDON:
+Penny.
+
+151
+00:09:11,562 --> 00:09:12,893
+Penny.
+
+152
+00:09:13,063 --> 00:09:14,462
+Penny.
+
+153
+00:09:14,631 --> 00:09:17,862
+- What's wrong?
+- Nothing. I was acting.
+
+154
+00:09:18,402 --> 00:09:19,426
+[SIGHS]
+
+155
+00:09:19,603 --> 00:09:20,763
+You were acting?
+
+156
+00:09:20,971 --> 00:09:25,340
+Yes. In preparation for today's studies,
+I read Stanislavski's An Actor Prepares...
+
+157
+00:09:25,509 --> 00:09:27,568
+...Stella Adler's
+The Technique of Acting...
+
+158
+00:09:27,745 --> 00:09:32,512
+...Uta Hagen's Respect for Acting,
+and Henry Winkler's Eh, I'm an Actor.
+
+159
+00:09:33,617 --> 00:09:36,415
+Well, good for you. Come on in.
+
+160
+00:09:36,587 --> 00:09:39,112
+- How should we begin?
+- Well, I thought we'd start...
+
+161
+00:09:39,289 --> 00:09:41,416
+...with some
+basic movement exercises.
+
+162
+00:09:41,592 --> 00:09:43,526
+You know, get our bodies warmed up.
+
+163
+00:09:43,694 --> 00:09:45,685
+- All right.
+- I just want you to relax...
+
+164
+00:09:45,863 --> 00:09:48,297
+...and kind of move around
+in the space, you know.
+
+165
+00:09:48,499 --> 00:09:51,491
+Just do whatever feels natural.
+
+166
+00:09:58,409 --> 00:10:02,140
+- Sheldon.
+- You said to do whatever feels natural.
+
+167
+00:10:02,312 --> 00:10:03,643
+This feels natural.
+
+168
+00:10:04,782 --> 00:10:07,649
+Certainly more natural
+than what you're doing.
+
+169
+00:10:07,818 --> 00:10:10,753
+Gotta work with me. We need
+to get connected with our bodies.
+
+170
+00:10:10,921 --> 00:10:14,550
+Penny, my body and I
+have a relationship that works best...
+
+171
+00:10:14,725 --> 00:10:18,024
+...when we maintain a cool,
+wary distance from each other.
+
+172
+00:10:18,695 --> 00:10:20,492
+[SIGHS]
+
+173
+00:10:20,664 --> 00:10:22,757
+All right,
+let's just say we've warmed up.
+
+174
+00:10:23,133 --> 00:10:24,725
+You're the "teacher."
+
+175
+00:10:25,335 --> 00:10:26,359
+[SIGHS]
+
+176
+00:10:26,537 --> 00:10:28,767
+Okay. One of the things
+that might help you...
+
+177
+00:10:28,939 --> 00:10:32,170
+...in connecting with students
+is being a little more spontaneous.
+
+178
+00:10:32,342 --> 00:10:34,105
+Why don't we try
+some improvisation?
+
+179
+00:10:34,278 --> 00:10:38,180
+Why not? It seems like you're
+improvising your entire curriculum.
+
+180
+00:10:39,983 --> 00:10:43,612
+- This is about listening and responding.
+- Gotcha.
+
+181
+00:10:43,787 --> 00:10:46,654
+I'm gonna create a character
+and situation and just jump in.
+
+182
+00:10:46,824 --> 00:10:48,121
+- All right.
+- All right.
+
+183
+00:10:48,292 --> 00:10:49,987
+Action.
+
+184
+00:10:52,362 --> 00:10:55,820
+Okay. It's not a movie, it's improv.
+So no one calls, "Action."
+
+185
+00:10:55,999 --> 00:10:57,762
+Hey, you taught me something.
+
+186
+00:10:58,802 --> 00:11:00,201
+Who would've thought it?
+
+187
+00:11:02,406 --> 00:11:04,203
+Ahem. Okay.
+
+188
+00:11:04,374 --> 00:11:07,002
+No, the shipment hasn't arrived
+and I need those shoes.
+
+189
+00:11:07,177 --> 00:11:10,237
+They are my biggest seller.
+Yes, ladies, sizes 6 through 10.
+
+190
+00:11:10,414 --> 00:11:13,975
+Thank you. Oh, sorry, I have to go.
+I have a customer. Bye-bye.
+
+191
+00:11:14,151 --> 00:11:15,311
+Hi, can I help you?
+
+192
+00:11:15,853 --> 00:11:18,822
+I'd like a frozen yogurt, please.
+
+193
+00:11:22,359 --> 00:11:23,758
+Yogurt?
+
+194
+00:11:23,927 --> 00:11:29,160
+Um, okay. Sure. You... Luckily,
+we sell both shoes and yogurt here.
+
+195
+00:11:30,667 --> 00:11:32,532
+You do?
+
+196
+00:11:33,370 --> 00:11:38,103
+Yes. Look up at the sign and remember,
+improv is always about saying yes.
+
+197
+00:11:38,675 --> 00:11:39,699
+All right.
+
+198
+00:11:39,877 --> 00:11:40,901
+[GASPS]
+
+199
+00:11:41,078 --> 00:11:42,602
+Yes.
+
+200
+00:11:43,714 --> 00:11:45,181
+I see a sign.
+
+201
+00:11:45,349 --> 00:11:49,149
+It says,
+"Camarillo State Mental Hospital."
+
+202
+00:11:50,888 --> 00:11:51,980
+What?
+
+203
+00:11:52,356 --> 00:11:54,347
+The only explanation
+I can come up with...
+
+204
+00:11:54,525 --> 00:11:57,892
+...for why you think
+you sell shoes and yogurt.
+
+205
+00:11:58,695 --> 00:12:01,129
+Okay, you know what?
+Let's try a different improv.
+
+206
+00:12:02,065 --> 00:12:06,229
+Oh. This time, we will be two winos
+living under a freeway overpass.
+
+207
+00:12:06,403 --> 00:12:08,268
+Oh, and we're going to use props?
+
+208
+00:12:08,438 --> 00:12:10,167
+You bet.
+
+209
+00:12:12,576 --> 00:12:15,010
+I had dreams, you know.
+I was gonna be famous.
+
+210
+00:12:15,546 --> 00:12:19,073
+Show everybody back home
+I could be someone. Now, look at me.
+
+211
+00:12:20,417 --> 00:12:23,944
+- Want some?
+- Do you have any frozen yogurt?
+
+212
+00:12:28,759 --> 00:12:32,354
+I'm still not adjusted to how
+the Syfy channel spells their name now.
+
+213
+00:12:32,529 --> 00:12:35,589
+S-Y-F-Y. That's "siffy."
+
+214
+00:12:36,066 --> 00:12:37,090
+Uh-huh.
+
+215
+00:12:37,267 --> 00:12:38,894
+[PHONE RINGING]
+
+216
+00:12:42,072 --> 00:12:43,596
+Hello?
+
+217
+00:12:45,576 --> 00:12:47,305
+Oh, my God, is he okay?
+
+218
+00:12:47,511 --> 00:12:49,172
+- What happened?
+- Hang on, hang on.
+
+219
+00:12:49,880 --> 00:12:51,006
+Uh-huh.
+
+220
+00:12:51,582 --> 00:12:52,606
+Okay, thank you.
+
+221
+00:12:53,784 --> 00:12:56,150
+Howard was on his scooter
+and got hit by a truck.
+
+222
+00:12:56,320 --> 00:12:57,981
+He's in critical condition.
+
+223
+00:12:58,188 --> 00:13:00,486
+Oh, no.
+
+224
+00:13:02,693 --> 00:13:05,127
+Did you hear? Isn't it terrible?
+
+225
+00:13:05,295 --> 00:13:07,490
+- Have you seen him?
+- They wouldn't let me in.
+
+226
+00:13:08,098 --> 00:13:10,498
+Oh, my Howie.
+
+227
+00:13:10,968 --> 00:13:12,595
+It'll be okay.
+
+228
+00:13:12,769 --> 00:13:14,168
+It'll be okay.
+
+229
+00:13:14,338 --> 00:13:15,635
+It'll be okay.
+
+230
+00:13:15,806 --> 00:13:17,967
+It'll be okay.
+
+231
+00:13:18,442 --> 00:13:20,000
+[PHONE RINGS]
+
+232
+00:13:20,944 --> 00:13:22,969
+It's Howard. Ahem.
+
+233
+00:13:23,513 --> 00:13:24,810
+Howard, hello.
+
+234
+00:13:24,982 --> 00:13:27,473
+Raj, is that you?
+
+235
+00:13:28,619 --> 00:13:30,211
+Yeah, I'm here. How are you?
+
+236
+00:13:30,387 --> 00:13:33,356
+Shh. Shh. Listen to me.
+I'm not gonna make it.
+
+237
+00:13:33,523 --> 00:13:36,458
+No, don't say that,
+you're going to be all right.
+
+238
+00:13:36,627 --> 00:13:38,788
+Raj, I don't have time.
+Now, pay attention.
+
+239
+00:13:39,496 --> 00:13:43,728
+My last wish
+is that you look after Bernadette.
+
+240
+00:13:43,900 --> 00:13:46,334
+Of course. Of course.
+
+241
+00:13:47,504 --> 00:13:50,234
+Now when you say "look after,"
+you mean...
+
+242
+00:13:50,607 --> 00:13:52,234
+Sexually.
+
+243
+00:13:52,409 --> 00:13:55,139
+Excuse me, Bernadette,
+I have to hear it from him.
+
+244
+00:13:56,146 --> 00:13:58,239
+Sexually.
+
+245
+00:13:58,782 --> 00:13:59,908
+Got it. Take care.
+
+246
+00:14:02,052 --> 00:14:05,647
+I guess I have no choice but to make
+sweet, guilt-free love to you...
+
+247
+00:14:05,822 --> 00:14:08,757
+...for the rest of my life.
+- That's how I heard it.
+
+248
+00:14:15,465 --> 00:14:17,023
+Or it could be "syfee."
+
+249
+00:14:17,567 --> 00:14:20,934
+- What?
+- S-Y-F-Y. "Syfee."
+
+250
+00:14:21,471 --> 00:14:22,961
+Oh, right.
+
+251
+00:14:23,140 --> 00:14:24,698
+Good one.
+
+252
+00:14:27,344 --> 00:14:32,213
+- Did you go over the scene I gave you?
+- Yes. I didn't care for it.
+
+253
+00:14:33,917 --> 00:14:37,409
+Okay, Cat on a Hot Tin Roof
+is an American classic.
+
+254
+00:14:37,587 --> 00:14:40,579
+So is the McRib sandwich.
+I don't care for that, either.
+
+255
+00:14:42,759 --> 00:14:46,593
+Ahem. Fine. What would you rather do
+as a scene study?
+
+256
+00:14:46,797 --> 00:14:47,855
+I'm glad you asked.
+
+257
+00:14:48,031 --> 00:14:52,365
+I took the liberty of adapting
+a Star Trek fan fiction novella...
+
+258
+00:14:52,536 --> 00:14:55,733
+...I wrote when I was 10
+into a one-act play.
+
+259
+00:14:57,040 --> 00:14:59,235
+You think it's better
+than Tennessee Williams?
+
+260
+00:15:00,177 --> 00:15:03,305
+Why don't we leave that
+for future generations to decide?
+
+261
+00:15:04,448 --> 00:15:07,178
+"Where No Sheldon has Gone Before."
+
+262
+00:15:07,684 --> 00:15:10,949
+It's the story of a young boy
+who is transported...
+
+263
+00:15:11,121 --> 00:15:15,114
+...from the ignorant backwoods
+of East Texas to the 23rd century...
+
+264
+00:15:15,325 --> 00:15:20,058
+...where his genius
+is not only appreciated, but celebrated.
+
+265
+00:15:20,530 --> 00:15:22,430
+KMN.
+
+266
+00:15:23,633 --> 00:15:27,694
+Now, in this pivotal scene,
+Sheldon's mother, played by you...
+
+267
+00:15:27,871 --> 00:15:29,270
+...argues with an emissary...
+
+268
+00:15:29,439 --> 00:15:34,638
+...of the United Federation of Planets,
+Mr. Spock, the role I will bring to life.
+
+269
+00:15:35,645 --> 00:15:39,240
+Okay, that's fine, but let's try
+and get you out of your comfort zone.
+
+270
+00:15:39,750 --> 00:15:41,149
+Why would we wanna do that?
+
+271
+00:15:41,351 --> 00:15:43,876
+It's called the comfort zone
+for a reason.
+
+272
+00:15:44,287 --> 00:15:46,755
+Okay, the whole point
+is to loosen you up a little.
+
+273
+00:15:46,923 --> 00:15:51,622
+I'm thinking, you'll play the role of your
+mother and I will bring life to Mr. Spock.
+
+274
+00:15:58,368 --> 00:16:00,666
+I'm sorry. You'll be Spock?
+
+275
+00:16:01,071 --> 00:16:03,631
+[AS SPOCK]
+It's only logical.
+
+276
+00:16:06,676 --> 00:16:08,007
+Very well. Ahem.
+
+277
+00:16:08,178 --> 00:16:10,373
+- I'll set the scene.
+- All right.
+
+278
+00:16:11,148 --> 00:16:14,345
+East Texas. A warm summer night.
+
+279
+00:16:14,518 --> 00:16:17,646
+A woman, Mary, stands on a porch.
+
+280
+00:16:17,821 --> 00:16:20,813
+In the distance,
+we hear a lonesome train whistle:
+
+281
+00:16:20,991 --> 00:16:22,083
+[MIMICS TRAIN WHISTLE]
+
+282
+00:16:22,259 --> 00:16:24,989
+The droning buzz of cicadas:
+
+283
+00:16:25,162 --> 00:16:26,459
+[BUZZING]
+
+284
+00:16:26,630 --> 00:16:29,098
+A coyote howls at the moon...
+
+285
+00:16:29,266 --> 00:16:31,496
+...frightening sensitive young boys
+everywhere:
+
+286
+00:16:31,668 --> 00:16:32,896
+[HOWLS]
+
+287
+00:16:33,703 --> 00:16:38,163
+- Out in the woods, an owl screeches...
+- Okay, we get it. You set the scene.
+
+288
+00:16:38,775 --> 00:16:40,072
+[HOOTS]
+
+289
+00:16:41,511 --> 00:16:43,411
+Okay, just read your mother's line.
+
+290
+00:16:46,316 --> 00:16:50,343
+[AS MOTHER] Shelly. Shelly.
+How many times have I told you...
+
+291
+00:16:50,520 --> 00:16:53,580
+...not to leave your science-y stuff
+out on the porch?
+
+292
+00:16:54,524 --> 00:16:57,891
+Goodness.
+I'll never understand that boy.
+
+293
+00:16:58,061 --> 00:17:00,621
+But then again, I'm a religious nut...
+
+294
+00:17:00,797 --> 00:17:04,790
+...and my mind is closed
+to so many things.
+
+295
+00:17:05,669 --> 00:17:08,968
+[MIMICS TRANSPORTER]
+
+296
+00:17:09,139 --> 00:17:11,937
+[AS SPOCK] Spock to Enterprise.
+Transport successful.
+
+297
+00:17:12,108 --> 00:17:14,269
+Glory be to heaven.
+
+298
+00:17:14,444 --> 00:17:17,902
+Some sort of creature
+just manifested out of thin air.
+
+299
+00:17:18,081 --> 00:17:20,572
+George, put down that Pepsi can
+full of bourbon...
+
+300
+00:17:20,750 --> 00:17:23,583
+...that ain't fooling no one,
+and get your shotgun.
+
+301
+00:17:24,654 --> 00:17:28,590
+Greetings, Mary Cooper.
+I am Spock.
+
+302
+00:17:31,495 --> 00:17:34,089
+[IN NORMAL VOICE]
+I'm sorry, I just don't buy it.
+
+303
+00:17:34,464 --> 00:17:35,761
+[IN NORMAL VOICE]
+Just keep going.
+
+304
+00:17:37,367 --> 00:17:41,269
+[AS MOTHER] Oh, my,
+your sudden appearance startles me.
+
+305
+00:17:41,471 --> 00:17:44,770
+[AS SPOCK] We have been monitoring
+your son, Sheldon, from the 23rd century...
+
+306
+00:17:44,975 --> 00:17:47,375
+...and we've determined
+he's now ready to join us.
+
+307
+00:17:47,544 --> 00:17:50,411
+His unique genius is our best hope
+for bringing peace...
+
+308
+00:17:50,580 --> 00:17:52,707
+...to a vast and troubled galaxy.
+
+309
+00:17:52,883 --> 00:17:54,077
+I understand.
+
+310
+00:17:55,185 --> 00:17:58,848
+Oh, Shelly, a man's here
+to take you away to the future.
+
+311
+00:17:59,022 --> 00:18:01,752
+Be sure to pack clean underwear.
+
+312
+00:18:02,359 --> 00:18:06,022
+[IN NORMAL VOICE] Okay, try that last line
+again and this time try choking up a little.
+
+313
+00:18:06,897 --> 00:18:09,195
+- [IN NORMAL VOICE] Why?
+- Well, you're losing your son.
+
+314
+00:18:09,366 --> 00:18:14,736
+Yes, but he's going to a better place
+where he won't get beat up so much.
+
+315
+00:18:14,905 --> 00:18:17,965
+All right, just try it my way.
+Pretend you're sad to see him go.
+
+316
+00:18:18,141 --> 00:18:19,768
+I'm gonna lead you in. Ahem.
+
+317
+00:18:20,544 --> 00:18:23,479
+[AS SPOCK] His unique genius
+is our best hope for bringing peace...
+
+318
+00:18:23,647 --> 00:18:26,115
+...to a vast and troubled galaxy.
+
+319
+00:18:27,751 --> 00:18:30,515
+- [IN NORMAL VOICE] That's your cue.
+- I'm sorry, I just love that line.
+
+320
+00:18:32,255 --> 00:18:34,382
+Even the way you do it.
+
+321
+00:18:35,292 --> 00:18:37,192
+All right, come on. Put emotion to it.
+
+322
+00:18:37,360 --> 00:18:40,261
+Blah, blah, blah.
+Vast and troubled galaxy, go.
+
+323
+00:18:41,798 --> 00:18:45,734
+[AS MOTHER] Oh, Shelly,
+a man's here to take you away to the future.
+
+324
+00:18:45,902 --> 00:18:47,199
+[WHIMPERING]
+
+325
+00:18:49,973 --> 00:18:52,533
+Be sure to pack clean underwear.
+
+326
+00:18:52,709 --> 00:18:54,609
+That's good, that's good, that's good.
+
+327
+00:18:56,313 --> 00:18:58,281
+[AS CHILD]
+Mommy, why are you crying?
+
+328
+00:18:59,049 --> 00:19:01,449
+[AS MOTHER]
+Because I'm gonna miss you, Shellybean...
+
+329
+00:19:01,618 --> 00:19:04,587
+...even though you creep the ba-jesus
+out of me.
+
+330
+00:19:04,988 --> 00:19:06,853
+Okay, I guess we're improvising now.
+
+331
+00:19:07,057 --> 00:19:11,153
+[AS CHILD] Well, I'm sorry, it's not my fault.
+I'm just incredibly smart...
+
+332
+00:19:11,328 --> 00:19:14,695
+...and everyone around here's dumber
+than a bag of rocks.
+
+333
+00:19:14,864 --> 00:19:17,992
+[AS MOTHER] Oh, now, don't
+you start crying. You get in that spaceship.
+
+334
+00:19:18,168 --> 00:19:19,499
+Mommy's late for Indian bingo.
+
+335
+00:19:19,669 --> 00:19:21,762
+[SOBBING]
+
+336
+00:19:23,373 --> 00:19:26,865
+Mrs. Cooper, hey, it's Penny.
+Yeah, I think I broke your son.
+
+337
+00:19:27,377 --> 00:19:29,311
+Hold on. Talk to your mother.
+
+338
+00:19:30,113 --> 00:19:32,445
+[IN NORMAL VOICE]
+Mommy, I love you.
+
+339
+00:19:32,616 --> 00:19:35,847
+Don't let Spock take me to the future.
+
+340
+00:19:42,826 --> 00:19:45,158
+Raj, I know you've been avoiding me
+and Howard...
+
+341
+00:19:45,328 --> 00:19:49,025
+...and I'm not leaving until you tell me
+what's going on inside that head.
+
+342
+00:19:54,938 --> 00:19:58,396
+[BOLLYWOOD MUSIC
+PLAYING ON SPEAKERS]
+
+343
+00:19:58,575 --> 00:20:02,671
+[SINGING] Like the wild elephant
+I am trumpeting my love for you
+
+344
+00:20:02,846 --> 00:20:07,180
+[SINGING] Like a hidden flower
+My sweet fragrance comes into view
+
+345
+00:20:16,426 --> 00:20:20,385
+My heart burns for you
+Like the sun at noon
+
+346
+00:20:20,563 --> 00:20:24,863
+My desert welcomes you
+Like the rainy monsoon
+
+347
+00:20:25,035 --> 00:20:26,798
+You are my heart
+
+348
+00:20:26,970 --> 00:20:29,131
+My universe
+
+349
+00:20:29,305 --> 00:20:30,966
+You are my heart
+
+350
+00:20:31,141 --> 00:20:33,575
+My universe
+
+351
+00:20:33,743 --> 00:20:35,904
+RAJ & BERNADETTE:
+My universe
+
+352
+00:20:36,079 --> 00:20:37,740
+ALL [SINGING]:
+You are my heart
+
+353
+00:20:37,914 --> 00:20:40,314
+My universe
+
+354
+00:20:40,483 --> 00:20:42,246
+You are my heart
+
+355
+00:20:42,452 --> 00:20:44,647
+My universe
+
+356
+00:20:44,821 --> 00:20:46,482
+You are my heart
+
+357
+00:20:46,656 --> 00:20:49,056
+My universe
+
+358
+00:20:49,225 --> 00:20:52,717
+My universe
+
+359
+00:21:00,370 --> 00:21:04,306
+Dance number aside, I'm so not gay.
+
+360
+00:21:30,600 --> 00:21:32,591
+[English - US - SDH]

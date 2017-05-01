@@ -1,0 +1,607 @@
+Ma, Ma, calm down. Listen to me.
+I know it says click with the mouse...
+...but on a laptop,
+the trackpad is the mouse.
+Now, put your finger on it.
+No, doesn't matter which finger.
+[SCOFFS]
+Good choice.
+Yeah, now move it down
+to your e-mail icon.
+Yeah, the little envelope.
+What do you mean what does it
+look like? It looks like an envelope!
+Fine, you don't like the computer,
+don't use it.
+Sure, we can exchange it
+for a salad spinner. Goodbye.
+[SIGHS]
+That's a Hanukkah present
+you're regretting, huh?
+Yeah, I won't say that all senior citizens
+who can't master technology...
+...should be publicly flogged, but if
+we made an example of one or two...
+...it might give the others
+incentive to try harder.
+I had a great idea.
+You know how we're always having...
+...to stop
+and solve differential equations...
+...like when you do Fourier analysis
+or using the Schrodinger equation?
+Howard doesn't. He's only an engineer.
+I think we could write a little app that
+would use handwriting recognition...
+...then run it through
+a symbolic evaluation engine.
+You just use your smartphone,
+take a picture of the equation, and bam!
+You know what's a great app?
+The one that makes fart noises.
+You know, Leonard,
+that's actually a valid idea. Very good.
+Can you say that
+and not make it sound like I'm a cat...
+...who learned how to use the toilet?
+No. The two achievements
+are equally surprising...
+...and equally admirable.
+Though if pressed,
+I'd have to give a slight edge to the cat.
+I'll save you the pain and nervousness
+of waiting for the answer.
+I agree to be part of your project.
+Congratulations.
+Ha, ha. Yay for me.
+What about you?
+I can't promise anything...
+...but people do make money
+off stuff like this.
+A few extra bucks would be nice.
+- Could move out of my mother's house.
+- Where would you go?
+I always dreamed about building
+a little place of my own over the garage.
+You know, if I made more money,
+I could take time off...
+...and give pretty girls
+submarine rides.
+What's that, some weird sex thing?
+No. You take girls underwater
+in your private submarine...
+...and you show them fish.
+Why does everything
+have to be dirty with you?
+I think we could work on this at night
+and maybe in a couple of weeks...
+...we'll have ourselves an app to sell.
+- Sounds like we're in business.
+- I think we should capture this moment.
+- Yeah, let's do it.
+[FART NOISE]
+Was that the best 99 cents I ever spent
+or what?
+I checked the App Store.
+No one is doing handwriting recognition
+differential equation solving.
+Oh, dear Lord, shush.
+- What?
+- You have so few good ideas, Leonard.
+And you're just gonna spill the beans
+in front of an outsider?
+Who, me?
+Sheldon, I don't think Penny cares
+about handwriting-recognition based...
+[SINGSONG]
+The stars at night are big and bright
+Deep in the heart of Texas
+- She's not going to steal our idea.
+- What idea?
+- We're gonna write...
+- [SINGSONG] The Prairie sky
+Is wide and high
+Deep in the heart...
+- Okay, stop, stop.
+- Of Texas
+Whatever your secret is,
+I'm sure it's boring. So I'm not interested.
+Well, it's not boring at all.
+You see, in higher-order mathematics...
+...there are certain sets of equations...
+- Bored.
+- Satisfied?
+- [IN NORMAL VOICE] Hardly.
+Consider this unlikely
+but very plausible scenario.
+A young woman alone in the big city.
+Her ridiculous dream
+of becoming an actress...
+...lies shattered about her.
+- Hey, wait a minute.
+- Hang on, let's see where he's going.
+Then it hits her,
+how is she going to survive?
+But she has no prospects,
+no marketable skills.
+And then one day,
+she meets a group of geniuses...
+...and their friend Howard.
+- Hey, l...
+- Hang on, let's see where he's going.
+She befriends them, and then lies in wait
+until they reveal a marketable idea...
+...which she steals
+and sells to the highest bidder.
+That is ridiculous.
+Is it? Let's see you come up
+with an explanation...
+...as to why this woman
+hangs out with us all the time.
+I've already mooched dinner
+off you guys.
+- I don't need to listen to this.
+- There's your answer, free food.
+All right, I've taken the liberty
+of drafting these workflow charts...
+...which outline our duties
+and the path we will follow...
+...as we develop
+our groundbreaking new app.
+Hey. Why am I in charge
+of phone support?
+Seems a bit racist.
+A customer service representative
+with an Indian accent...
+...will create the impression
+we're a vast enterprise...
+...that uses overseas call centers.
+Oh, very clever. But still racist.
+Duly noted, Steve from Wichita.
+Hey, why am I listed
+as your executive assistant?
+Because the word secretary
+has fallen into disrepute.
+Oh, FYI,
+my mother's birthday is coming up.
+I'm going to need you
+to pick up a present.
+Okay, we need to stop for a minute.
+We can talk during break.
+We have one coming up at midnight.
+- And we'll need snacks.
+- Sheldon, you're not in charge.
+- It's my idea. I'm in charge.
+- Oh, of course, you are.
+Look at the organizational chart.
+You're clearly listed as founder.
+Yes, and you're listed
+as chief executive officer...
+...chief financial officer
+and chief operating officer.
+You missed chief science officer,
+chairman of the board and...
+...head of the Secret Santa committee.
+- Okay.
+You need to get clear on this right now:
+I am in charge of this project.
+Ooh, Leonard's going all alpha nerd
+on Sheldon's ass.
+All right.
+I'm not going to argue with you.
+Sheldon Cooper
+is nothing if not a team player.
+Dr. Hofstadter, you have the con.
+Thank you. I thought we might start...
+...by talking about the user interface.
+- Dear Lord, we're doomed.
+So this button here
+will allow you to scan a new equation...
+...but over here, you can press this...
+...and just substitute
+new values for the coefficients.
+Ha, ha. Good one, boss.
+- What?
+- This diagram.
+Well, I assume
+you were opening with a joke.
+It certainly buoyed up this employee's
+esprit de corps.
+It's not a joke. It's the real design.
+In that case, may I offer 27 little tweaks
+to make it slightly less embarrassing?
+Sheldon, I think this will work.
+Let's just try it my way.
+Oh, I'm sorry.
+I assumed that you wanted...
+...candid truth-telling
+from your employees.
+But I realize now,
+you want the mindless nattering...
+...of complacent yes-men.
+- Are you done?
+- Lf you say so, boss.
+Right now, this button-press event
+is triggering a dummy procedure call.
+How about this for the app name?
+The Surprisingly Helpful
+Equation-Linked Differential...
+...Optimized Numerator.
+So it spells "Sheldon."
+Does it? A happy accident.
+- We're not doing names now. Howard?
+- Like I was saying...
+...now, it's a dummy procedure.
+Eventually, it will drop us in...
+If we're not going to give it a name...
+...can we at least give it
+a secret code designation?
+- No.
+- Hear me out.
+The atomic bomb
+was the Manhattan Project...
+...Windows 95
+was originally Project Chicago.
+For our app, I would humbly suggest
+Project Nodlehs.
+That's just Sheldon backwards.
+Another happy accident.
+We're not wasting time
+with names right now.
+I see.
+- Is that decision open for discussion?
+- No.
+Is the decision to not discuss...
+...open for discussion?
+- No.
+Again, right now...
+...it's a dummy procedure,
+but eventually, it will drop us...
+I call for a vote of no confidence
+and a change in leadership.
+- Sheldon, stop it.
+- When in the course of human events...
+...it becomes necessary
+to dissolve the bonds...
+...that tie three scientists...
+- Enough, Sheldon.
+Let's get to the vote. Show of hands...
+...all opposed to Leonard
+and his reign of tyranny:
+- Okay, that's it, you're fired.
+- Really?
+Why?
+Because you're impossible
+to work with.
+I see.
+And is that open for discussion?
+- What are you doing?
+- Oh, good morning, shoemaker.
+I think you'll be pleased with what
+the elves were up to last night.
+But I fired you.
+Oh, I know.
+I'm now an independent contractor.
+No, you are now nothing.
+You have no connection
+to this project whatsoever.
+But I made it better.
+I don't want it better. I want it my way.
+Well, that speaks volumes, doesn't it?
+All right, I suppose
+I'll go put on my bus pants.
+- What the hell are bus pants?
+- They are pants one wears...
+...over regular pants
+when one sits on bus seats...
+...that other people
+have previously sat on.
+But, perhaps, from your lofty heights
+atop the corporate ladder...
+...you've lost touch with the struggles
+of the common man.
+Look, I'm still happy
+to drive you to work.
+Nothing's changed in that regard.
+We're still roommates, still friends.
+Except you identified me,
+your best friend...
+...as a gangrenous limb...
+...that needed to be severed
+from the organism and tossed.
+The desperate act of a little man
+with a big Napoleon complex.
+You know what?
+Go put on your bus pants.
+Mm, last night, I had a dream
+we got so rich from the app...
+...you and I bought
+matching side-by-side mansions.
+[CHUCKLES]
+But there was a secret tunnel...
+...connecting your front yard
+to my back yard.
+What do you think that means?
+It means after we play handball,
+I'm showering at home.
+Oh, good morning,
+friend Howard, friend Raj.
+I see you gentlemen
+are enjoying beverages.
+Perhaps, they would taste better
+out of these.
+- "World's Greatest Astrophysicist"?
+- Don't thank me, you earned it.
+"Howard Wolowitz."
+Why not "World's Greatest Engineer"?
+Oh, I'm sorry,
+I typed that into the label maker...
+...but I just couldn't press enter.
+Now down to business.
+What would it take
+for you to abandon Leonard...
+...and join me in a rival company?
+Unless, of course, mugs are sufficient.
+In which case, welcome aboard.
+- We're not quitting on Leonard.
+- I understand. Your loyalty is admirable.
+But what if I were to up the ante?
+What are you talking about?
+Monogrammed key chains
+with a built-in laser pointer.
+No?
+How about can cozies
+emblazoned with our university mascot?
+Go Beavers.
+I'll be back.
+Okay, let's try this one.
+Spherical Hankel function.
+Hold on.
+- That's it!
+- Yes! Eureka!
+We agreed when it was "eureka" time,
+we were all gonna say it together.
+- Fine, let's say it together.
+- No, the moment has passed.
+Greetings, gentlemen.
+How goes your little project?
+You mean Project Lenwoloppali?
+A combination of all your names.
+Very clever.
+I assume "Koothranardowitz"
+was taken.
+We're scanning equations
+and getting good results.
+Oh, well, then by all means, carry on.
+I wouldn't wanna
+impede your progress.
+Howard, did you solve
+the install time problem?
+No, it's tricky. I'm gonna try having it
+pick up the libraries...
+[PLAYING THEREMIN]
+What are you doing?
+Playing the theremin.
+No, I mean,
+what are you doing with a theremin?
+Playing it.
+I've loved the theremin from the moment
+I heard original Star Trek theme.
+And it's been killing me that
+it just sits in my closet gathering dust.
+- Sheldon, we're working here.
+- That's all right.
+I can barely hear you
+over my theremin.
+[THEREMIN STOPS PLAYING]
+Well, that was a little uncalled for.
+No, that was completely called for.
+We need quiet.
+So your project
+is more important than mine?
+Well, seeing as your project
+is to sabotage my project, yes.
+Don't beat around the bush, Leonard.
+If you don't want me here,
+just say the word and I'll leave.
+Could have beaten
+around the bush a little.
+[SINGING]
+Nobody knows
+The trouble I've seen
+Nobody knows my sorrow
+Oh
+What you doing,
+trying to contact your home planet?
+I'm practicing my theremin.
+Oh.
+[SINGING]
+Nobody knows
+The trouble I've seen
+Glory hallelujah
+Something got you down
+there, Sheldon?
+Leonard kicked me out
+of my own apartment.
+- And his app team.
+- Oh, honey, I'm sorry.
+He wouldn't drive me to work today.
+I had to wear my bus pants.
+- Is that so?
+- Yes, and they're still sticky.
+Aw.
+Probably gonna have
+to throw them away.
+[PLAYING THEREMIN]
+Hey, you don't need Leonard
+and his app.
+You can make one with me.
+With you?
+[PLAYING THEREMIN]
+- Seriously, I have a great idea for one.
+- Is it better than your idea...
+...to move to Los Angeles
+and become a famous actress?
+When you see someone
+wearing shoes you like...
+...you snap a picture
+and the app goes on the Internet...
+...to find out where you can buy them.
+- That's your app idea?
+- You don't like it?
+- I didn't say that. But no, I don't.
+- Why not?
+- Oh, Penny, where do I begin?
+The simple-mindedness of your idea...
+...is exceeded only by
+its crass consumerism and banality.
+And Leonard didn't wanna
+work with you, imagine that.
+I know, it's baffling.
+[SINGING]
+Nobody knows
+The trouble I've seen
+Sheldon, I'm gonna make some cocoa.
+Do you want some?
+- Do you make it with milk or water?
+- Milk.
+- Real cocoa?
+- That's what it says on the packet.
+- You have little those marshmallows?
+- No, sorry.
+- Well, I suppose it's appropriate.
+- What does that mean?
+A disappointing drink
+for a disappointing day.
+Look. Twenty people
+from the university...
+...have already signed up
+for our private beta.
+I tell you, the Lenwoloppali Differential
+Equation Scanner meets a real need.
+We've got a hit.
+Ha, ha, what do you think
+we should sell it for?
+Based on the fact that
+our potential market...
+...is about 70 or 80 guys,
+and you want a submarine...
+...l'd say about a million dollars a pop.
+What if we put out
+a light version for half a million?
+Get the word of mouth going.
+[KNOCKING ON DOOR]
+Hi, I'm sorry to bother you guys...
+...but you've gotta
+come take Sheldon back.
+- What's he doing in your apartment?
+- He was moping in the lobby...
+...so I invited him over. I regret it.
+Why do you regret...?
+Never mind, stupid question.
+Can't you just let him play
+until bedtime?
+We're not playing. This is real work.
+We're gonna be hundredaires.
+Okay, what if I got him to apologize
+and promise to behave?
+Then I guess we would let him
+back on the app team.
+While we're doing that, you could take
+an aerial tour of L.A. On your flying pig.
+Okay, wait right here.
+I'll tell you one thing...
+...if I get rich, that's the kind of girl
+I wanna take on a submarine ride.
+And yes,
+that time I meant it to be dirty.
+Really?
+Leonard wants me back?
+Oh, yes.
+He says they are lost without you.
+Well, we sure saw that coming.
+- That's right.
+- You know what I'm going to do?
+I am going to sit here
+and just let them stew.
+[PLAYING THEREMIN]
+No, no, no.
+You know, they have suffered enough.
+You know,
+everybody's suffered enough.
+The thing is...
+...you're gonna have to offer him
+a face-saving way out of this.
+- How?
+- Say you're sorry.
+Oh, no. Mrs. Mary Cooper
+didn't raise her no liars.
+Okay. Um, how about this? You know
+how you're always trying to learn...
+...about sarcasm?
+- No.
+- No?
+I was being sarcastic.
+Oh, good for you.
+All you have to do
+is say you're sorry to Leonard...
+...but say it sarcastically.
+Of course.
+He will hear it
+as an attempt to mend fences...
+...as opposed to the withering
+condemnation you and I know it to be.
+Yeah, that was my plan.
+All right. Come on. Let's go.
+By the way,
+thank you for the delicious cocoa.
+- Oh, you're welcome.
+- Oh, I'm getting good at this.
+Okay, now that you're back on the team
+let's get you caught up.
+Before you begin, let me say again
+how deeply sorry I am...
+...for my earlier behavior...
+...and how much I respect and admire
+your leadership.
+Thank you.
+So as you can see...
+...not only can you store
+your favorite equations...
+...but you can forward them
+to your friends...
+...or post them on Facebook
+right from the app.
+- Well, I must say, I am impressed.
+- Thanks.
+- You all have put in a lot of hard work.
+- We have.
+You have taken the most important step
+on the road to success:
+Learning what not to do.
+Now, let's start fresh.
+Howard, we're going to need some tea.
+Okay, these are Uggs.
+These are Crocs.
+- These are knockoff Manolo Blahniks.
+- Bored.
+You said it yourself,
+we have to create a database...
+...before you can write an algo-thingy.
+Algorithm. You see, Penny,
+Alan Turing defines an algorithm...
+Bored.
+Okay. These are Steve Maddens.
+These are Nine West.
+These are Target.
+Oh, but don't they look like Chanel?
+- These are Michael Kors.
+- [SINGING] Nobody knows
+- The trouble I've seen
+- These are Roxy.
+- Nobody knows
+- These are Seychelles.
+- My sorrow
+Oh, these are Betsy Johnson.
+They're so cute.
+[English - US - SDH]
