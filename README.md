@@ -126,7 +126,7 @@ Resultado: [**interseccao.csv**](interseccao.csv)
 ![interseccao](images/interseccao.png)
 
 
-#### Encontrar o vocabulário de palavras diferente de cada livro entre 2 livros removendo as palavras que forem encontradas nos dois livros (disjunção)
+### 2. Encontrar o vocabulário de palavras diferente de cada livro entre 2 livros removendo as palavras que forem encontradas nos dois livros (disjunção)
 ```sql
 select a.word, 
        a.wordcount, 
