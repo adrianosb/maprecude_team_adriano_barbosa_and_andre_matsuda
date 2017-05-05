@@ -11,7 +11,7 @@
 
 ### Pré-requisito
 #### 1. Executar passos na raiz deste projeto
-#### 2. Extrair conteúdo do livros para arquivos .txt
+#### 2. Extrair conteúdo dos livros para arquivos .txt
 > Rodar o comando: java -jar HtmlToText.jar path_livro
 ```sh
 $ java -jar HtmlToText.jar ./HtmlToText/lit2go.ok
